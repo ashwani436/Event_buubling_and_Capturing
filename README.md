@@ -1,2 +1,3 @@
-# Event_delegation
+# bubbling and capturing
+
 Created with CodeSandbox
